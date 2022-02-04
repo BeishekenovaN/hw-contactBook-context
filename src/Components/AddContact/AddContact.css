@@ -1,0 +1,15 @@
+ h2{
+    color: rgba(156, 5, 156, 0.877);
+}
+.form-block{
+    width: 100% !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.filled-basic{
+    margin-bottom: 10px !important;
+    
+} 

@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "fullName": "Nargiza Beishekenova",
+      "image": "https://travel-or-die.ru/wp-content/uploads/2016/11/rejkyavik-iz-moskvy-avia-e1477991523290.jpg",
+      "phoneNumber": "0551016198",
+      "mail": "rer",
+      "address": "Toktonalieva st,40/14",
+      "id": 2
+    },
+    {
+      "fullName": "Nargiza Beishekenova",
+      "image": "https://avatars.mds.yandex.net/i?id=2a0000017a0de189abcc29bc6b9ae123fdd8-5171197-images-thumbs&ref=rim&n=33&w=450&h=300",
+      "phoneNumber": "0551016198",
+      "mail": "wd",
+      "address": "Toktonalieva st,40/14",
+      "id": 3
+    },
+    {
+      "fullName": "Nargiza Beishekenova",
+      "image": "https://travel-or-die.ru/wp-content/uploads/2016/11/rejkyavik-iz-moskvy-avia-e1477991523290.jpg",
+      "phoneNumber": "0551016198",
+      "mail": "wd",
+      "address": "Toktonalieva st,40/14",
+      "id": 4
+    },
+    {
+      "fullName": "Nargiza Beishekenova",
+      "image": "https://travel-or-die.ru/wp-content/uploads/2016/11/rejkyavik-iz-moskvy-avia-e1477991523290.jpg",
+      "phoneNumber": "0551016198",
+      "mail": "wd",
+      "address": "Toktonalieva st,40/14",
+      "id": 5
+    },
+    {
+      "fullName": "Nargiza Beishekenova",
+      "image": "https://travel-or-die.ru/wp-content/uploads/2016/11/rejkyavik-iz-moskvy-avia-e1477991523290.jpg",
+      "phoneNumber": "0551016198",
+      "mail": "wd",
+      "address": "Toktonalieva st,40/14",
+      "id": 6
+    },
+    {
+      "fullName": "Nargiza Beishekenova",
+      "image": "https://avatars.mds.yandex.net/i?id=2a0000017a0de189abcc29bc6b9ae123fdd8-5171197-images-thumbs&ref=rim&n=33&w=450&h=300",
+      "phoneNumber": "0551016198",
+      "mail": "wd",
+      "address": "Toktonalieva st,40/14",
+      "id": 7
+    }
+  ]
+}
